@@ -142,11 +142,8 @@ body{
 }
 .bg-expert{
   background-color: #E6EFFF;
-  background-image: url(../images/our_expert.png);
-  background-repeat: no-repeat;
-  background-position: right;
-  background-size: contain;
 }
+
 .icons-color{
   font-size: 60px;
   color: #0092C9;
@@ -297,4 +294,16 @@ border-right: 1px solid #ccc;
 }
 .list_styleABC{
   list-style-type: upper-alpha;
+  }
+/* prays */
+.borogress_bg{
+  background-color: #6EC645;
+  border-radius: 10px;
+}
+.progress_wiz{
+  height: 8px;
+  margin: 30px 0px;
+}
+.coli_wiz{
+  min-height: 1300px;
 }
