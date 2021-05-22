@@ -1,0 +1,300 @@
+.logo{
+width: 300px;
+height: 200px;
+}
+body{
+  background-color: ;
+}
+.sign-in-button{
+  margin-left: 30px;
+  background-color: transparent;
+  border-color: #119AC2;
+  color: #119AC2;
+}
+.sign-in-but{
+  background-color: transparent;
+  color: #119AC2;
+  border: 1px solid #119AC2;
+}
+.sign-in-button:hover{
+  background-color: #119AC2;
+  color: #ffffff;
+}
+.inp-bord{
+  border-radius: 20px;
+  padding-left: 35px;
+}
+.topsearch{
+  position: absolute;
+  top: 21px;
+  margin-left: 14px;
+  color: #ccc;
+}
+}
+.navbar *{
+  font-weight: 500;
+}
+.navbar{
+  padding-top: 0;
+  padding-bottom: 0;
+}
+}
+.navbar .btn {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.makeyour{
+  font-size: 70px;
+  font-weight: 650;
+  color: white;
+}
+.studt{
+  color: white;
+}
+.imgg{
+  background-color: #5BADBB
+}
+.course-stars{
+  color: #FFA823;
+}
+.numb{
+  color: #A24222;
+}
+.shadow1{
+  box-shadow: 0px 0px 8px 0px #DBDBDB;
+  overflow: hidden;
+}
+.shadow{
+  border-radius: 10px;
+  box-shadow: 0px 2px 15px 5px #DBDBDB;
+  overflow: hidden;
+}
+.kurs-desc{
+  font-size: 13px;
+}
+.kurs-title{
+  font-size: 1.15rem;
+}
+.btn-more{
+  border-radius: 25px;
+  background-color: transparent;
+  border-color: #018DB7;
+  color: #018DB7;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.btn-more:hover{
+  background-color: #018DB7;
+  color: #ffffff;
+}
+.goal{
+  background-color: #E6EFFF;
+}
+.aftr::after {
+  width: 92px;
+  height: 4px;
+  background-color: #90B94D;
+  content: " ";
+  display: block;
+}
+.imgleft{
+  margin: ;
+}
+.coueses{
+  margin: 60px 0px 45px 0px;
+}
+.clock{
+  font-size: 70px;
+  color: #5EC647;
+}
+.border-green{
+  border-top: solid 10px #5EC647;
+}
+.juntifi {
+  margin: 5px 20px;
+}
+.border-blue{
+  border-top: solid 10px #2286A6;
+}
+.calendar{
+  color: #2286A6;
+  font-size: 70px;
+}
+.border-orange{
+  border-top: solid 10px #FFA82D;
+}
+.icon-rezult{
+  color: #FFA82D;
+  font-size: 70px;
+}
+.gulugulu{
+  background-color: #F5F5F4;
+}
+.borderbot{
+  /* display: none; */
+  border: solid 1px #ccc;
+  border-bottom: solid 10px #2286A6;
+  padding-top: 70px;
+}
+
+.imgtop {
+  margin-bottom: -85px;
+}
+.bg-expert{
+  background-color: #E6EFFF;
+  background-image: url(../images/our_expert.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+}
+.icons-color{
+  font-size: 60px;
+  color: #0092C9;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: solid   2px #0092C9;
+  margin: 20px auto;
+}
+/* 7Desctop */
+.foyz-border{
+  border-radius: 30px;
+  border: 1px solid #0092C9;
+  width: 26%;
+}
+.stars-ccc{
+  color: #ccc;
+}
+
+.protsent{
+  font-size: 25px;
+  color: #ccc;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: solid   2px #ccc;
+  margin: 20px auto;
+}
+.nolfoyz{
+  text-align: center;
+  margin-top:27px ;
+}
+/* 7Desctop */
+.brdr{
+  border-radius: 5px;
+  border: solid 1px #eee;
+}
+.futer-logo img{
+  width: 80px;
+  height: 80px;
+}
+.nav{
+  margin-left: 106px;
+}
+.top-fut{
+  background-color: #FAFAFA;
+  padding-top: 10px;
+}
+.futrjon{
+  background-color: #eee;
+}
+.elmax{
+  text-decoration: none;
+  color: black;
+}
+.margno{
+  margin-bottom: 0px;
+  padding: 7px 0px;
+}
+/* birinchi stranitsa tugadi */
+ul li{
+  color: #42C71D;
+}
+
+ul p{
+  color: gray;
+}
+ul li strong{
+  color: black;
+}
+.kurator{
+  color: #FFA823;
+  margin-left: 10px;
+
+}
+.kurs{
+  color: black;
+  font-weight: 900;
+}
+.expert-bonus{
+  font-size: 16px;
+}
+.deck{
+  border: 1px solid #ccc;
+  padding: 50px;
+  background-color: #ffffff;
+  margin-top: 100px;
+}
+.itms > div{
+  margin-top: 25px;
+}
+.bg-mr-grey{
+    background-color: #F8F8F8;
+}
+.olliga li{
+  padding-bottom: 15px;
+}
+/* DESKTOP bilan 1.html TUGAD */
+.border-vid{
+border-right: 1px solid #ccc;
+}
+.progres-radius{
+  border-radius: 5px;
+  margin: 30px 50px;
+}
+.prog-pratsent{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: red;
+}
+.pratsent{
+  margin: 22px;
+  margin-top: -10px
+}
+/* modallar */
+.next-modal{
+  margin-top: -100px;
+
+}
+.modlabod{
+  padding: 2rem;
+}
+.icon-set{
+  margin-bottom: 25px;
+
+}
+.icon-set img{
+  width: 60px;
+  height: 60px;
+  padding: 10px;
+}
+.modal-radius{
+  border-radius: 25px;
+}
+.loock-modal{
+  width: 200px;
+  height: 80px;
+}
+.noob{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+.modalwidth{
+  width: 380px;
+  height: auto;
+}
+.list_styleABC{
+  list-style-type: upper-alpha;
+}
