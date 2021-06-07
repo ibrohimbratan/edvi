@@ -1,0 +1,19 @@
+@media (max-width: 768px)
+{
+    .foyz-border {
+        border-radius: 0;
+        border: none;
+    }
+    .deck {
+        padding: 15px;
+    }
+    .med-futr li:nth-child(3) {
+        display: none;
+    }
+    .med-futr{
+        margin-left: 25px;
+    }
+    .med-futr .nav-link{
+        padding: 0px 10px;
+    }
+}

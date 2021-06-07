@@ -2,7 +2,10 @@
 width: 300px;
 height: 200px;
 }
-
+.nav-row
+{
+  width: 100%;
+}
 .sign-in-button{
   margin-left: 30px;
   background-color: transparent;
@@ -26,10 +29,13 @@ height: 200px;
   position: absolute;
   top: 21px;
   margin-left: 14px;
-  color: #ccc;
+  color: black;
 }
 .navbar *{
   font-weight: 500;
+}
+.topsearch *{
+  font-weight: 700;
 }
 .navbar{
   padding-top: 0;
@@ -149,21 +155,21 @@ height: 200px;
 /* 7Desctop */
 .foyz-border{
   border-radius: 30px;
-  border: 1px solid #0092C9;
-  width: 26%;
+  border: 2px solid #0092C9;
 }
 .stars-ccc{
+  font-size: 24px;
   color: #ccc;
 }
 
 .protsent{
-  font-size: 25px;
+  font-size: 53px;
   color: #ccc;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
-  border: solid   2px #ccc;
-  margin: 20px auto;
+  border: solid 5px #ccc;
+  margin: 4px auto;
 }
 .nolfoyz{
   text-align: center;
@@ -223,7 +229,7 @@ ul li strong{
   border: 1px solid #ccc;
   padding: 50px;
   background-color: #ffffff;
-  margin-top: 100px;
+  margin: 20px 0;
 }
 .itms > div{
   margin-top: 30px;
@@ -246,12 +252,12 @@ border-right: 1px solid #ccc;
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background-color: red;
+  background-color: #5EB6DC;
   color: white;
 }
 .pratsent{
   margin: 22px;
-  margin-top: -10px
+  margin-top: -10px;
 }
 /* modallar */
 .next-modal{
@@ -332,4 +338,74 @@ border-right: 1px solid #ccc;
   margin-top: 3px;
   margin-right: -50px;
   text-align: right;
+}
+.hovbuy :hover{
+color: white;
+}
+.carousel .owl-item{
+  box-sizing: border-box;
+  padding: 30px 20px;
+}
+
+.carousel .owl-nav{
+  display: none;
+}
+.stories img{
+  display: inline !important;
+  width: auto !important;
+}
+
+.custom-tab{
+  margin: 0;
+}
+.custom-tab .nav-item.show .nav-link, .custom-tab .nav-link.active{
+  background-color: transparent;
+  border-color: transparent;
+  border-bottom: solid 3px #4f5050;
+}
+.custom-tab .nav-link{
+  color: #495057;
+}
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+  background-color: transparent;
+  border-color: transparent;
+  border-bottom: solid 3px #4f5050;
+}
+.video-menu .nav-link{
+  padding: .5rem .5rem;
+  text-decoration: underline;
+}
+.result-box .btns .col
+{
+  padding: 0 5px;
+}
+.result-box .btns
+{
+  padding: 0 10px;
+}
+.result-box.success .protsent
+{
+  color: #167ac6;
+  border: solid 5px #167ac6;
+}
+.result-box.success
+{
+  color: #167ac6;
+}
+.custom-pag .page-link
+{
+  border: none;
+  color: #ccc;
+}
+.custom-pag .page-link:hover
+{
+  color: #547ac6;
+  background-color: transparent;
+  border-color: transparent;
+}
+.custom-pag .page-item.active .page-link
+{
+  color: #547ac6;
+  background-color: transparent;
+  border-color: transparent;
 }
