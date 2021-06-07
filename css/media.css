@@ -16,4 +16,42 @@
     .med-futr .nav-link{
         padding: 0px 10px;
     }
+    .hidden-sm{
+        display: none !important;
+    }
+    .inline-nav li{
+        display: inline-block;
+    }
+    .inline-nav{
+        margin: 0;
+    }
+    .custom-nav .container-fluid{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .hidden-lg
+    {
+        display: inherit;
+    }
+    .custom-nav
+    {
+        padding-bottom: 0;
+    }
+    .nav-row
+    {
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .sign-in-button, .sign-in-button:hover, .sign-in-button:focus
+    {
+        background-color: transparent;
+        border: none;
+        margin-left: 0;
+        outline: none;
+    }
+    .sign-in-button:hover
+    {
+        color: #6d6d6d;
+    }
 }
