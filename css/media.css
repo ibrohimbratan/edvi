@@ -77,18 +77,6 @@
     {
         display: none !important;
     }
-    .widthcours
-    {
-        width: 300px;
-    }
-    .element.style {
-        width: 300px;
-    }
+
 }
 
-@media (max-width: 768px){
-    .corusel-width {
-        width: 427px;
-        column-gap: 20px;
-    }
-}

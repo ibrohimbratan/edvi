@@ -439,3 +439,6 @@ color: white;
   padding: 8px 12px;
   border-top: solid 1px #ccc;
 }
+.form-label {
+  margin-bottom: -0.5rem;
+}
