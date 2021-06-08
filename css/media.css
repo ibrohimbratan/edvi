@@ -54,4 +54,41 @@
     {
         color: #6d6d6d;
     }
+    .nosarch
+    {
+        display: none;
+    }
+    .vectorad
+    {
+        display: block;
+    }
+    .widthful
+    {
+        width: 100%;
+    }
+    .corusel-width{
+        width: 427px;
+        column-gap: 20px;
+    }
+}
+@media (min-width: 768px)
+{
+    a.vectorad
+    {
+        display: none !important;
+    }
+    .widthcours
+    {
+        width: 300px;
+    }
+    .element.style {
+        width: 300px;
+    }
+}
+
+@media (max-width: 768px){
+    .corusel-width {
+        width: 427px;
+        column-gap: 20px;
+    }
 }
