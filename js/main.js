@@ -5,13 +5,14 @@ $(function (){
 
 
   $('.carousel').owlCarousel({
-    loop: true,
+    loop: false,
     responsiveClass:true,
     nav: false,
     responsive:{
       0:{
         items:1,
-        nav:false
+        nav:false,
+        stagePadding: 50
       },
       768:{
         items:2,

@@ -66,9 +66,15 @@
     {
         width: 100%;
     }
-    .corusel-width{
-        width: 427px;
-        column-gap: 20px;
+    /*.corusel-width{*/
+    /*    width: 427px;*/
+    /*    column-gap: 20px;*/
+    /*}*/
+    .ccarousel{
+        padding: 0;
+    }
+    .ccarousel .owl-stage{
+        left: -50px;
     }
 }
 @media (min-width: 768px)
@@ -86,9 +92,9 @@
     }
 }
 
-@media (max-width: 768px){
-    .corusel-width {
-        width: 427px;
-        column-gap: 20px;
-    }
-}
+/*@media (max-width: 768px){*/
+/*    .corusel-width {*/
+/*        width: 427px;*/
+/*        column-gap: 20px;*/
+/*    }*/
+/*}*/
