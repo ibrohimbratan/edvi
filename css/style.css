@@ -291,8 +291,9 @@ border-right: 1px solid #ccc;
   border-radius: 50%;
 }
 .modalwidth{
-  width: 380px;
-  height: auto;
+  padding: 130px 50px 0;
+  /*width: 380px;*/
+  /*height: auto;*/
 }
 .list_styleABC{
   list-style-type: upper-alpha;
